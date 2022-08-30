@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asif Ansari 
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning c++ and web development 
-- 💞️ I’m looking to collaborate on my project 
+- 👀 I’m interested in building new Product
+- 🌱 I’m currently working as CEO of Umpteen Innovation
+- 💞️ I’m Hiring MERN Developer
 - 📫 How to reach me via mail - asif@umpteeninnovation.inn
 
 <!---
